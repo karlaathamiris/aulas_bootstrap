@@ -3,14 +3,22 @@ body {
 }
 
 .navbar {
-    background-color: rgb(238, 194, 150);
+    background-color: rgb(101, 161, 244);
 }
 
 .mulheres {
-    background-color: rgb(246, 241, 240);
+    background-color: rgb(178, 74, 143);
+}
+
+.anonimas {
+    background-color: rgb(191, 115, 185);
+}
+
+.leitura {
+    background-color:rgb(217, 149, 203);
 }
 
 .margin {
-    padding-top: 25px;
     padding-bottom: 25px;
+    padding-top: 25px;
 }
