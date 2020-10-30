@@ -3,7 +3,7 @@ body {
 }
 
 .navbar {
-    background-color: rgb(101, 161, 244);
+    background-color: rgb(253, 254, 255);
 }
 
 .mulheres {
@@ -21,4 +21,9 @@ body {
 .margin {
     padding-bottom: 25px;
     padding-top: 25px;
+}
+
+.bg-footer {
+    background-color: rgb(238, 194, 150);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
